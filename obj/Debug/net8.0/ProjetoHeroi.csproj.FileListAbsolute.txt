@@ -1,0 +1,14 @@
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\bin\Debug\net8.0\ProjetoHeroi.exe
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\bin\Debug\net8.0\ProjetoHeroi.deps.json
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\bin\Debug\net8.0\ProjetoHeroi.runtimeconfig.json
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\bin\Debug\net8.0\ProjetoHeroi.dll
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\bin\Debug\net8.0\ProjetoHeroi.pdb
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\obj\Debug\net8.0\ProjetoHeroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\obj\Debug\net8.0\ProjetoHeroi.AssemblyInfoInputs.cache
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\obj\Debug\net8.0\ProjetoHeroi.AssemblyInfo.cs
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\obj\Debug\net8.0\ProjetoHeroi.csproj.CoreCompileInputs.cache
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\obj\Debug\net8.0\ProjetoHeroi.dll
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\obj\Debug\net8.0\refint\ProjetoHeroi.dll
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\obj\Debug\net8.0\ProjetoHeroi.pdb
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\obj\Debug\net8.0\ProjetoHeroi.genruntimeconfig.cache
+C:\Users\Citendo\Desktop\Projeto nivel heroi\ProjetoHeroi\obj\Debug\net8.0\ref\ProjetoHeroi.dll
